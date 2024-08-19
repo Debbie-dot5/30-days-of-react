@@ -1,0 +1,55 @@
+.user-container{
+  margin-left: 40px;
+  
+}
+
+.user-img{
+  width: 200px;
+  height: 200px;
+  border-radius: 65%;
+}
+
+.listed-items{
+  display: flex; 
+  flex-wrap: wrap;
+  justify-content: flex-start; 
+  gap: 8px; 
+  text-align: left;
+  margin-right: 10%;
+}
+
+.items{
+  background-color: #2ACFCF;
+  padding: 8px;
+  border-radius: 12px;
+  color: white; 
+}
+
+.subscribe-container{
+ margin: 50px auto;
+ width: 100%;
+ background-color: rgb(194,230,244);
+ text-align: center;
+ padding: 10px 0;
+ border-radius: 10px;
+}
+
+.para{
+  font-size: 20px;
+}
+.within{
+  margin: 35px 12px;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+.sub-button{
+  width: 250px;
+ padding: 8px 0 8px 0px;
+ border-radius: 8px;
+ border: none;
+ background-color: rgb(243,116,116);
+ color: white;
+ font-size: 18px;
+}
